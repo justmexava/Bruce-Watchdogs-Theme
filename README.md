@@ -1,6 +1,6 @@
 # Bruce Watchdogs Theme
 So the installation is pretty easy and since i only made the t-embed version i'm gonna do the installation tuto for it
-all you need is bruce, a t-embed, internet ahhhh
+all you need is bruce, a t-embed and internet ahhhh
 
 !!-INSTALLATION-!!
 *power on your t-embed and go in your t-embed files then turn on your web ui on your network and not ap
