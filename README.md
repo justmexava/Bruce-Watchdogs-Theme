@@ -2,6 +2,7 @@
 
 <img width="736" height="552" alt="T-Embed wd2" src="https://github.com/user-attachments/assets/e44e106f-eafe-4ac6-811f-3c001d3d8af0" />
 
+
 So the installation is pretty easy and since i only made the t-embed version i'm gonna do the installation tuto for it
 all you need is bruce, a t-embed and internet ahhhh
 
