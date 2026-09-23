@@ -9,4 +9,4 @@ all you need is bruce, a t-embed, internet ahhhh
 *go inside the themes folder and upload your unzipped "Theme Watchdogs"
 *on your t-embed stop web ui and go to config, click on "Display & UI" scroll down to "UI Theme" go to your theme folder no matter if it's on your micro-sd card or on your native t-embed
 *in your theme folder click on your "Theme Watchdogs" folder then click on "T-Embed" and select "Theme_Watchdogs.json"
-And that's it u can restart your t-embed and enjoy!
+And that's it you can restart your t-embed and enjoy!
